@@ -91,60 +91,15 @@ GNU General Public License for more details.
 The **Chili Lite WordPress theme** is 100% GPLv2. See headers of files for further details.[GNU GPL v2.0 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
 
-## MeanMenu License
-MeanMenu, Copyright (C) 2012-2014 Chris Wharton @ MeanThemes  
-MeanMenu is available under the GNU General Public License  
-Source: https://github.com/meanthemes/meanMenu  
+## Images 
+CC0-licensed (GPL-compatible) images from https://www.pexels.com/
 
-
-## Modernizr License
-Modernizr, Copyright 2009-2018 Faruk Ates, Paul Irish, Alex Sexton  
-Modernizr is available under the the BSD and MIT licenses  
-Source: www.modernizr.com/license/  
- 
-
-## Font Awesome License
-Font Awesome icons, Copyright Dave Gandy  
-License: SIL Open Font License  
-Source: http://fontawesome.io/  
-
- 
-## Bootstrap License
-Bootstrap, Copyright 2011-2016 Twitter  
-Bootstrap is released under the MIT license  
-Source: http://getbootstrap.com  
-
-
-## Scrollup License
-Scrollup, Copyright (c) Mark Goodyear  
-Scrollup is released under the MIT license  
-Source: http://markgoodyear.com  
-
-
-## Google Fonts License
-http://fonts.googleapis.com/css?family=Droid  
-http://fonts.googleapis.com/css?family=Raleway  
-http://fonts.googleapis.com/css?family=Open+Sans  
-They are under SIL Open Font.  
-
-
-## Theme screenshot images 
-
-Image 1, Copyright Pixabay  
-License: CC0 1.0 Universal (CC0 1.0)  
-Source: https://www.pexels.com/photo/alcohol-architecture-bar-beer-260922/  
-  
-Image 2, Copyright Pixabay    
-License: CC0 1.0 Universal (CC0 1.0)   
-Source: https://www.pexels.com/photo/vegetables-italian-pizza-restaurant-2232/  
-
-Image 3, Copyright Pixabay       
-License: CC0 1.0 Universal (CC0 1.0)   
-Source: https://www.pexels.com/photo/meat-tomato-and-cheese-burger-161519/  
+	- https://www.pexels.com/photo/alcohol-architecture-bar-beer-260922/   
+	- https://www.pexels.com/photo/vegetables-italian-pizza-restaurant-2232/ 
 
 
 ## Changelog 
   
-= July 05 2018 - 1.0.0 =
-* Theme released
-  
+### 1.0.3
+* Theme released (approved wp.org)
+

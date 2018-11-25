@@ -4,7 +4,7 @@ Contributors: digitalcenturysf
 Tags: blog, e-commerce, food-and-drink, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, flexible-header, sticky-post, translation-ready 
 Requires at least: 4.0
 Tested up to: 4.7 
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,6 +18,9 @@ View more themes from this author: https://digitalcenturysf.com
 
 == Changelog ==
 
+= 1.0.8 =
+* Screenshot updated
+ 
 = 1.0.7 =
 * Readme file updated
  

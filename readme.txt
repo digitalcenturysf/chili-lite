@@ -1,6 +1,6 @@
 === Chili Lite ===
 
-Contributors: (digitalcenturysf)
+Contributors: digitalcenturysf
 Tags: blog, e-commerce, food-and-drink, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, flexible-header, sticky-post, translation-ready 
 Requires at least: 4.0
 Tested up to: 4.7 
@@ -26,7 +26,9 @@ View more themes from this author: https://digitalcenturysf.com
 
 == Resources ==
 
-* All images included in the theme are either created for the theme and inheriting its license, or licensed under CC0.
-* All other theme assets like scripts, stylesheets are licensed under GNU General Public License version 2, see file license.txt, or GPL compatible licenses like BSD, MIT, SIL. See headers of each files for further details.
-
-  
+* screenshot.png © 2018 Pixabay , CC0, https://www.pexels.com/photo/food-healthy-vegetables-red-50576/
+* Font Awesome © 2018 Dave Gandy, STL, http://fontawesome.io/
+* Bootstrap © 2011-2016 Twitter, MIT, http://getbootstrap.com 
+* Modernizr © 2009-2018 Faruk Ates, Paul Irish, Alex Sexton, BSD and MIT, www.modernizr.com/license 
+* MeanMenu © 2009-2018 2012-2014 Chris Wharton @ MeanThemes, GNU, https://github.com/meanthemes/meanMenu 
+ 

@@ -1,4 +1,4 @@
-# Chili Lite v1.0.6
+# Chili Lite v1.0.8
 ![Chili Lite - Free Wordpress Theme](/screenshot.png)
 
 > Are you looking for a suitable restaurant template for your businesses or clients? Chili is a premium WordPress theme designed for all type of food-related businesses such as restaurants, bakeries, bars, tea shops, pastry shops, catering services, and so on. This WordPress theme includes WooCommerce functionality so you can easily setup your store and accept online orders. Below is the main features of this theme.
